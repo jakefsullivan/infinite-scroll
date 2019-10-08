@@ -2,7 +2,7 @@ Subreddit is an example of an Infinite Scrolling list of posts.
 
 ## Summary
 
-This App can connect to the reddit api endpoint and the correct baseUrl defined in app.js. Rather than render all the data at once, the app will display 3 posts on initial load and add posts in increments of 3 as you scroll down. This is meant to increase speed for larger data sets. The total number of posts loaded is displayed in the top right section of the header.
+This App can connect to the reddit api endpoint and the correct baseUrl defined in app.js. Instead of rendering all the data at once, the app will display 3 posts on initial load and add posts in increments of 3 as you scroll down. This is meant to increase speed for larger data sets. The total number of posts loaded is displayed in the top right section of the header.
 
 ## Yet to be added
 

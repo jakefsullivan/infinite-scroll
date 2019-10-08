@@ -13,7 +13,7 @@ This App can connect to the reddit api endpoint and the correct baseUrl defined 
 -   Add a button that scrolls to the top.
 
 ## Installation Instructions
-
+First, download or clone this repo. 
 Run `yarn install` to install package dependencies.
 To start run `yarn start` in the terminal.
 
